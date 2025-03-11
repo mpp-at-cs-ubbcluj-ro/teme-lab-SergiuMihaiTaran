@@ -1,0 +1,45 @@
+11 Mar 2025 17:49:07,402 INFO  CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 17:49:07,411 INFO  CarsDBRepository 80 add - Adding car: Id=0 Tesla Model S 2019
+11 Mar 2025 17:49:07,412 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 17:49:07,413 TRACE JdbcUtils 23 getNewConnection - Enter
+11 Mar 2025 17:49:07,413 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+11 Mar 2025 17:49:07,413 INFO  JdbcUtils 29 getNewConnection - user: null
+11 Mar 2025 17:49:07,414 INFO  JdbcUtils 30 getNewConnection - pass: null
+11 Mar 2025 17:49:07,415 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 17:49:07,416 TRACE JdbcUtils 55 getConnection - Exit
+11 Mar 2025 17:49:10,564 INFO  CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 17:49:10,572 INFO  CarsDBRepository 80 add - Adding car: Id=0 Tesla Model S 2019
+11 Mar 2025 17:49:10,574 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 17:49:10,576 TRACE JdbcUtils 23 getNewConnection - Enter
+11 Mar 2025 17:49:10,576 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+11 Mar 2025 17:49:10,576 INFO  JdbcUtils 29 getNewConnection - user: null
+11 Mar 2025 17:49:10,576 INFO  JdbcUtils 30 getNewConnection - pass: null
+11 Mar 2025 17:49:10,576 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 17:49:10,577 TRACE JdbcUtils 55 getConnection - Exit
+11 Mar 2025 18:01:40,526 INFO  CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 18:01:40,535 INFO  CarsDBRepository 80 add - Adding car: Id=0 Tesla Model S 2019
+11 Mar 2025 18:01:40,537 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 18:01:40,538 TRACE JdbcUtils 23 getNewConnection - Enter
+11 Mar 2025 18:01:40,538 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+11 Mar 2025 18:01:40,538 INFO  JdbcUtils 29 getNewConnection - user: null
+11 Mar 2025 18:01:40,538 INFO  JdbcUtils 30 getNewConnection - pass: null
+11 Mar 2025 18:01:40,539 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 18:01:40,540 TRACE JdbcUtils 55 getConnection - Exit
+11 Mar 2025 18:05:54,516 INFO  CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 18:05:54,525 INFO  CarsDBRepository 80 add - Adding car: Id=0 Tesla Model S 2019
+11 Mar 2025 18:05:54,526 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 18:05:54,527 TRACE JdbcUtils 23 getNewConnection - Enter
+11 Mar 2025 18:05:54,527 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+11 Mar 2025 18:05:54,527 INFO  JdbcUtils 29 getNewConnection - user: null
+11 Mar 2025 18:05:54,527 INFO  JdbcUtils 30 getNewConnection - pass: null
+11 Mar 2025 18:05:54,529 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 18:05:54,530 TRACE JdbcUtils 55 getConnection - Exit
+11 Mar 2025 18:05:57,354 INFO  CarsDBRepository 21 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 18:05:57,363 INFO  CarsDBRepository 80 add - Adding car: Id=0 Tesla Model S 2019
+11 Mar 2025 18:05:57,365 TRACE JdbcUtils 46 getConnection - Enter
+11 Mar 2025 18:05:57,365 TRACE JdbcUtils 23 getNewConnection - Enter
+11 Mar 2025 18:05:57,365 INFO  JdbcUtils 28 getNewConnection - trying to connect to database ... null
+11 Mar 2025 18:05:57,365 INFO  JdbcUtils 29 getNewConnection - user: null
+11 Mar 2025 18:05:57,366 INFO  JdbcUtils 30 getNewConnection - pass: null
+11 Mar 2025 18:05:57,367 ERROR JdbcUtils 39 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 18:05:57,368 TRACE JdbcUtils 55 getConnection - Exit
